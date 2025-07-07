@@ -1,4 +1,4 @@
-# 🧮 PHP Web Calculator
+# 🧮 Javascript PHP Web Calculator
 
 A simple web-based calculator built with PHP and HTML. It performs basic arithmetic operations (+, −, ×, ÷, ^) and displays whether the result is even/odd and a prime number.
 
